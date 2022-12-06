@@ -27,5 +27,3 @@ Just clone this Gatsby Starter, add the content. And that's it!
    ```sh
    npm run develop
    ```
-
---
