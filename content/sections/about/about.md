@@ -3,12 +3,12 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a <u>software developer</u> living in Kansas City, Missouri. I specialize in innovating creative experiences for the web and developing analytics architecture.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Shortly after graduating from Graceland University in 2021, I joined the <u>Analytics Development</u> team at Evolytics. I spend my days supporting clients as they implement and maintain analytics architecture and data-collection strategies across large-scale websites. 
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+After joining Evolytics, I decided that I wasn't finished with my education and started a <u>MS in Data Science</u> program at the beginning of 2022.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+<u>Outside of work or school</u>, you can find me training for my next marathon, playing soccer with some friends, or working on a passion-project. 
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<3
