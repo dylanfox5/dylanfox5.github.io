@@ -5,7 +5,7 @@
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
+    "src": "../../images/rocket.png",
     "alt": "Waving Hand Emoji"
   },
   "title": "I'm Dylan Fox,",
@@ -14,7 +14,7 @@
     "highlight": "solving problems",
     "suffix": "."
   },
-  "description": "\"Resist the temptations of this world to live a passive life. Take up your cross and seek responsibility as a child of God.\"",
+  "description": "\"Insert cool quote here\"",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
