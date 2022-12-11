@@ -4,10 +4,10 @@
     "siteUrl": "https://dylanfox5.github.io/",
     "title": "Dylan Fox",
     "titleTemplate": "%s · Portfolio",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "Dylan Fox's online portfolio where he showcases his work and writs articles of topics he is interested in.",
     "author": "Dylan Fox",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "Dylan works as a developer for Evolytics, a Concord Company. He has degrees in Computer Science and Mathematics and is pursuing a Master's in Data Science. He enjoys playing soccer, running scenic trails, and JavaScript programming.",
     "social": {
       "github": "https://github.com/dylanfox5",
       "medium": "https://konstantinmuenster.medium.com",
@@ -27,7 +27,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/dylanfox-resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

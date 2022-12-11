@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-portfolio-minimal-theme",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Dylan Fox's online portfolio where he showcases his work and writs articles of topics he is interested in.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",

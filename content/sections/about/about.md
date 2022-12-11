@@ -1,6 +1,6 @@
 ---
 imageSrc: "../../images/dfox.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Dylan Fox Headshot"
 ---
 
 I'm a <u>software developer</u> living in Kansas City, Missouri. I specialize in innovating creative experiences for the web and developing analytics architecture.
