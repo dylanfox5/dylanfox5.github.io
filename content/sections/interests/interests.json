@@ -3,57 +3,57 @@
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/js.png",
+        "alt": "JavaScript Icon"
       }
     },
     {
       "label": "HTML & CSS",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/laptop.png",
+        "alt": "Laptop Emoji"
       }
     },
     {
       "label": "Responsive Design",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/mobile-phone.png",
+        "alt": "Mobile Phone Emoji"
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/python.png",
+        "alt": "Python Icon by Icons8"
       }
     },
     {
       "label": "R",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/r.png",
+        "alt": "R Icon by Icons8"
       }
     },
     {
       "label": "SQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/sql.png",
+        "alt": "SQL Icon by Icons8"
       }
     },
     {
       "label": "Adobe Analytics",
       "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
+        "src": "../../images/adobe.png",
+        "alt": "Adobe Logo by Icons8"
       }
     },
     {
       "label": "TMS",
       "image": {
         "src": "../../images/high-voltage.png",
-        "alt": ""
+        "alt": "Lightning Emoji"
       }
     }
   ],

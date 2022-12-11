@@ -20,9 +20,9 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" },
+        { "label": "Blog", "url": "/blog" }
       ],
       "ctaButton": {
         "openNewTab": true,

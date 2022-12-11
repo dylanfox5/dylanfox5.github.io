@@ -1,12 +1,8 @@
 {
   "intro": "Hey there",
-  "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
-  },
   "image": {
     "src": "../../images/rocket.png",
-    "alt": "Waving Hand Emoji"
+    "alt": "Rocketship Emoji"
   },
   "title": "I'm Dylan Fox,",
   "subtitle": {
@@ -14,7 +10,7 @@
     "highlight": "solving problems",
     "suffix": "."
   },
-  "description": "\"Insert cool quote here\"",
+  "description": "Matthew 6:33",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
