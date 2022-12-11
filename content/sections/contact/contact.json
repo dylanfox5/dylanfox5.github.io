@@ -3,8 +3,8 @@
   "email": "dylan.fox.kc@gmail.com",
   "description": "Shoot me an email or follow me on social media to stay tuned into my latest work.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/dfox-logo.png",
+    "alt": "dfox Logo"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
