@@ -1,73 +1,54 @@
 {
   "projects": [
     {
-      "visible": true,
+      "visible": false,
       "category": "🕹️ PASSION PROJECT",
       "title": "Online To Do List",
       "description": "Interested in my daily activites? Check out my online to do application! By leveraging the Todoist API, I've synced my activity on the Todoist application so others can see what I'm up to and see cool productivity metrics.",
       "tags": ["JavaScript", "Todoist API"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "src": "../../images/todoist.png",
+        "alt": "Todoist Logo by Icons8",
+        "linkTo": "https://todoist.com/"
+      }
     },
     {
-      "visible": true,
-      "category": "🧰 PASSION PROJECT",
+      "visible": false,
+      "category": "🕹️ PASSION PROJECT",
       "title": "Obsidian Integration",
       "description": "I use the Obisidian application for all my note-taking needs. All Obsidian notes are written in Markdown and integrate seamlessly with Gatby applications. Check it out!",
       "tags": ["JavaScript", "Obsidian API"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+        "src": "../../images/obsidian.png",
+        "alt": "Obsidian Logo by Icons8",
+        "linkTo": "https://obsidian.md/"
+      }
     },
     {
       "visible": true,
-      "category": "🧰 PASSION PROJECT",
+      "category": "🕹️ PASSION PROJECT",
       "title": "Graceland Today",
-      "description": "Graceland Today is a dashboard on the web for Graceland University students to see the latest campus events. It was designed in collaboration with other students and developed by yours truly. #GUTID",
+      "description": "Graceland Today is a web dashboard for Graceland University students to see the latest campus events. It was designed in collaboration with other students and developed by yours truly. #GUTID",
       "tags": ["JavaScript", "ReactJS", "Responsive Web Design"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/gu-today.png",
+        "alt": "Graceland Today Screenshot"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/dylanfox5/graceland-today"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://graceland-today.web.app/"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Visit my Github",
+    "url": "https://github.com/dylanfox5"
   }
 }
