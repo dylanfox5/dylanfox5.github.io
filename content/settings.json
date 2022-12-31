@@ -3,10 +3,10 @@
     "language": "en",
     "siteUrl": "https://dylanfox5.github.io/",
     "title": "Dylan Fox",
-    "titleTemplate": "%s · Portfolio",
+    "titleTemplate": "%s · Dylan Fox",
     "description": "Dylan Fox's online portfolio where he showcases his work and writs articles of topics he is interested in.",
     "author": "Dylan Fox",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/sunrise-fox.jpg",
     "bio": "Dylan works as a developer for Evolytics, a Concord Company. He has degrees in Computer Science and Mathematics and is pursuing a Master's in Data Science. He enjoys playing soccer, running scenic trails, and JavaScript programming.",
     "social": {
       "github": "https://github.com/dylanfox5",
