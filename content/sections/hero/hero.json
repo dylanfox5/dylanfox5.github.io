@@ -4,13 +4,13 @@
     "src": "../../images/rocket.png",
     "alt": "Rocketship Emoji"
   },
-  "title": "I'm Dylan Fox,",
+  "title": "I'm Dylan Fox.",
   "subtitle": {
-    "prefix": "I like ",
-    "highlight": "solving problems",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "Matthew 6:33",
+  "description": "I'm a software developer based in Kansas City, MO. I enjoy solving problems and helping others.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
