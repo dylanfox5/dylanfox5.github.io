@@ -44,6 +44,27 @@
           "url": "https://dylanfox5.github.io/graceland-today/"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ PASSION PROJECT",
+      "title": "Minimal Portfolio",
+      "description": "Minimal Portfolio is a simple portfolio template that developers can use to quickly showcase themselves and their projects.",
+      "tags": ["JavaScript", "ReactJS", "Responsive Web Design"],
+      "image": {
+        "src": "../../images/minimal-portfolio.png",
+        "alt": "Minimal Portfolio Screenshot"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/dylanfox5/dylanfox-portfolio"
+        },
+        {
+          "type": "external",
+          "url": "https://dylanfox5.github.io/dylanfox-portfolio/"
+        }
+      ]
     }
   ],
   "button": {
