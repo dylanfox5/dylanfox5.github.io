@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://dylanfox5.github.io/sitemap-index.xml
-Host: https://dylanfox5.github.io
+Sitemap: https://dylanfox.net/sitemap-index.xml
+Host: https://dylanfox.net
