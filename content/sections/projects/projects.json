@@ -41,7 +41,7 @@
         },
         {
           "type": "external",
-          "url": "https://dylanfox5.github.io/graceland-today/"
+          "url": "https://www.dylanfox.net/graceland-today/"
         }
       ]
     },
@@ -58,11 +58,11 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/dylanfox5/dylanfox-portfolio"
+          "url": "https://github.com/dylanfox5/minimal-portfolio"
         },
         {
           "type": "external",
-          "url": "https://dylanfox5.github.io/dylanfox-portfolio/"
+          "url": "https://www.dylanfox.net/minimal-portfolio/"
         }
       ]
     }
