@@ -4,7 +4,7 @@
       "visible": false,
       "category": "🕹️ PASSION PROJECT",
       "title": "Online To Do List",
-      "description": "Interested in my daily activites? Check out my online to do application! By leveraging the Todoist API, I've synced my activity on the Todoist application so others can see what I'm up to and see cool productivity metrics.",
+      "description": "Interested in my daily activites? Check out my online to do application! By leveraging the Todoist API, I've synced my activity with Todoist application so others can see what I'm up to and see cool productivity metrics.",
       "tags": ["JavaScript", "Todoist API"],
       "image": {
         "src": "../../images/todoist.png",
@@ -41,7 +41,7 @@
         },
         {
           "type": "external",
-          "url": "https://graceland-today.web.app/"
+          "url": "https://dylanfox5.github.io/graceland-today/"
         }
       ]
     }
