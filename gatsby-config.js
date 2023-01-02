@@ -3,7 +3,7 @@ module.exports = {
     {
       resolve: "gatsby-theme-portfolio-minimal",
       options: {
-        siteUrl: "https://dylanfox5.github.io/", // Used for sitemap generation
+        siteUrl: "https://dylanfox.net/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
           siteName: "Dylan Fox's Portfolio", // Used in manifest.json
